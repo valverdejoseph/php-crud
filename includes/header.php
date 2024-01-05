@@ -13,7 +13,7 @@
 <body>
     <nav class="navbar bg-body-tertiary" data-bs-theme="dark">
     <div class="container-fluid">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="index.php">
         <img src="includes/h.svg" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">
         Registro de Tareas
         </a>
